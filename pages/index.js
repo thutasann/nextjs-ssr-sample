@@ -30,6 +30,7 @@ export default function Home({ todos }) {
       <a
         href='https://github.com/thutasann/nextjs-ssr-sample'
         target="_blank"
+        rel="noreferrer"
         style={{
           color: '#007eff',
           textDecoration: 'underline'
